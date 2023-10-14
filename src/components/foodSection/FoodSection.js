@@ -11,8 +11,8 @@ export default function FoodSection(){
                      p="All our ingredients come directly from our farm or local fishery. So you can be sure that you’re eating the freshest, most sustainable food." />
                     <div className="w-[40%] z-50 -mt-8 md:-mt-2 sm:w-full">
                         <Image
-                            className="w-full"
-                            src={"/imgs/food.jpg"} width={200} height={100} alt="..." />
+                            className="w-full z-50"
+                            src={"/imgs/food.jpg"} width={200} height={100} alt="..."/>
                     </div>
                 </div>
             </div>
