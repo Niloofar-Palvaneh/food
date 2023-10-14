@@ -4,7 +4,7 @@ import HighlightBox from "../highlightBox/HighlightBox"
 export default function HighlightSection(){
     return(
         <>
-           <div className="w-full bg-black md:px-2 -mt-8 sm:mt-0 text-white sm:mt-12 sm:pt-4">
+           <div className="w-full bg-black md:px-2 -mt-8 sm:mt-0 text-white sm:mt-12 sm:pt-4 pb-4">
                 <div className="px-44 sm:px-0 md:px-4 sm:pt-0 sm:text-center sm:gap-12 flex items-center justify-between sm:flex-col">
                     <Title title="A few highlights from our menu"
                      p="We cater for all dietary requirements, but here’s a glimpse at some of our diner’s favourites. Our menu is revamped every season." />

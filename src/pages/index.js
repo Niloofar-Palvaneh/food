@@ -3,6 +3,7 @@ import Header from '@/components/header/Header'
 import EnjoySection from '@/components/enjoySection/EnjoySection'
 import FoodSection from '@/components/foodSection/FoodSection'
 import HighlightSection from '@/components/highlightSection/HighlightSection'
+import FamilySection from '@/components/familySection/FamilySection'
 
 export default function Home() {
   return (
@@ -11,9 +12,7 @@ export default function Home() {
     <EnjoySection/>
     <FoodSection/>
     <HighlightSection/>
-    <div>
-
-    </div>
+    <FamilySection/>
     </>
   )
 }
